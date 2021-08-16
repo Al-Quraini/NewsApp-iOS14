@@ -1,5 +1,9 @@
 # NewsApp-iOS14
 
+## Screenshots
+![news](https://user-images.githubusercontent.com/71343707/129643234-f3eb0339-5503-41c9-95f6-98e73c3cb29e.jpeg)
+
+
 ## Demo
 [![News Demo](https://j.gifs.com/qQQOR7.gif)](https://j.gifs.com/vQQnXn.gif)
 
